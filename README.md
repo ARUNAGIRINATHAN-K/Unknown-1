@@ -6,6 +6,20 @@ Turn raw numbers into memorable, meaningful narratives. This guide collects 12 p
 ## About
 This repository collects concise, actionable techniques for turning data into stories using visualization. It is designed for analysts, data scientists, journalists, and anyone who needs to communicate data clearly. Examples use generic pseudocode and short Python snippets (matplotlib / seaborn / plotly) — let me know if you want full notebooks for each hack.
 
+# Image Table (2 Columns × 12 Rows)
+
+Below is a table with **2 columns and 12 rows**, each cell containing 12 compact images with names.
+
+---
+
+| Column 1 | Column 2 |
+|----------|----------|
+| <p align="center"> <img src="images/1.png" width="50"/> <br>Image 1 <br> <img src="images/2.png" width="50"/> <br>Image 2 <br> <img src="images/3.png" width="50"/> <br>Image 3 <br> <img src="images/4.png" width="50"/> <br>Image 4 <br> <img src="images/5.png" width="50"/> <br>Image 5 <br> <img src="images/6.png" width="50"/> <br>Image 6 <br> <img src="images/7.png" width="50"/> <br>Image 7 <br> <img src="images/8.png" width="50"/> <br>Image 8 <br> <img src="images/9.png" width="50"/> <br>Image 9 <br> <img src="images/10.png" width="50"/> <br>Image 10 <br> <img src="images/11.png" width="50"/> <br>Image 11 <br> <img src="images/12.png" width="50"/> <br>Image 12 </p> | <p align="center"> <img src="images/img13.png" width="50"/> <br>Image 13 <br> <img src="images/img14.png" width="50"/> <br>Image 14 <br> <img src="images/img15.png" width="50"/> <br>Image 15 <br> <img src="images/img16.png" width="50"/> <br>Image 16 <br> <img src="images/img17.png" width="50"/> <br>Image 17 <br> <img src="images/img18.png" width="50"/> <br>Image 18 <br> <img src="images/img19.png" width="50"/> <br>Image 19 <br> <img src="images/img20.png" width="50"/> <br>Image 20 <br> <img src="images/img21.png" width="50"/> <br>Image 21 <br> <img src="images/img22.png" width="50"/> <br>Image 22 <br> <img src="images/img23.png" width="50"/> <br>Image 23 <br> <img src="images/img24.png" width="50"/> <br>Image 24 </p> |
+
+---
+
+
+
 ## How to use this repo
 - Read the 12 hacks for quick guidance.
 - Browse the examples folder for runnable code and images.
