@@ -1,6 +1,6 @@
 <div align="center">
 
-# Project Management App
+![Banner](TaskFlow.png)
 
 *A full-featured Kanban-style project management application for tracking tasks and collaborating in real-time*
 
